@@ -8,7 +8,7 @@ I'm a Japanese high school student addicted to Common Lisp, sorry for my poor En
     - Transformer Architecture
     - Deep Learning
     - Scientific Computing
-    - Exploring the best form of Deep Learning Framework for Common Lisp
+    - Exploring [the best form of Deep Learning Framework for Common Lisp](https://github.com/hikettei/cl-waffe2)
 
 ### Contacts
 
