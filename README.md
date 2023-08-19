@@ -19,6 +19,8 @@ I'm a Japanese high school student addicted to Common Lisp, sorry for my poor En
 
 - My Discord: `@hikettei`
 
+- My Discord Server: https://discord.gg/N3PzVDPEc8 (in the case of expire, contact me)
+
 - Visit My Twitter: [ichndm](https://twitter.com/ichndm)
 
 - Reddit: [hikettei](https://www.reddit.com/user/hikettei)
