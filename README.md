@@ -10,10 +10,6 @@ I'm a Japanese high school student addicted to Common Lisp, sorry for my poor En
     - Scientific Computing
     - Exploring the best form of Deep Learning Framework for Common Lisp
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hikettei&show_icons=true&theme=graywhite&count_private=true)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hikettei)](https://github.com/anuraghazra/github-readme-stats)
-
 ### Contacts
 
 - Feel free to contact me by email if you have any: `ichndm@gmail.com`
@@ -21,3 +17,8 @@ I'm a Japanese high school student addicted to Common Lisp, sorry for my poor En
 - My Discord: `@hikettei`
 
 - Visit My Twitter: [ichndm](https://twitter.com/ichndm)
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hikettei&show_icons=true&theme=graywhite&count_private=true)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hikettei)](https://github.com/anuraghazra/github-readme-stats)
+
