@@ -13,7 +13,7 @@ I'm a Japanese high school student addicted to Common Lisp, sorry for my poor En
                  (:deep-learning . NIL)
                  (:scientific-computing . NIL)
                  (:cl-waffe2 . "am exploring the best form of Deep Learning Framework for Common Lisp at cl-waffe2 repo"))
-    :e-mail "ichndm@gmail.com Feel free to contact me if you have any :)")
+    :e-mail "<ichndm@gmail.com> Feel free to contact me if you have any :)")
 ```
 
 ### Find me on other platforms
@@ -26,7 +26,7 @@ I'm a Japanese high school student addicted to Common Lisp, sorry for my poor En
 
 - Reddit: [hikettei](https://www.reddit.com/user/hikettei)
 
-- Zenn:   [hikettei](https://zenn.dev/hikettei)
+- Zenn:   [hikettei](https://zenn.dev/hikettei) (I write some articles when I feel like it in Japanese, always on Zenn rather than Qiita)
 
 - Qiita:  [hikettei](https://qiita.com/hikettei)
 
