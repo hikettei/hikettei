@@ -28,7 +28,7 @@ I'm a Japanese high school student addicted to Common Lisp, sorry for my poor En
 
 - Zenn:   [hikettei](https://zenn.dev/hikettei) (I write some articles when I feel like it in Japanese, always on Zenn rather than Qiita)
 
-- Qiita:  [hikettei](https://qiita.com/hikettei)
+- Qiita:  [hikettei](https://qiita.com/hikettei) Qiita isn't my cup of tea tbh :/
 
   
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hikettei&show_icons=true&theme=graywhite&count_private=true)
