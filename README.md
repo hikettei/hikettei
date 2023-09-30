@@ -1,6 +1,6 @@
 ### hikettei
 
-I'm a Japanese high school student addicted to Common Lisp, sorry for my poor English hehe.
+I'm a high school student in Japan who dotes on Common Lisp. Currently working on [cl-waffe2](https://github.com/hikettei/cl-waffe2), programmable deep learning framework written in Common Lisp.
 
 ```lisp
 (make-instance 'hikettei
@@ -8,11 +8,10 @@ I'm a Japanese high school student addicted to Common Lisp, sorry for my poor En
     :languages '((:japanese . "mother tongue")
                  (:english  . "Poor :<"))
     :interests '((:common-lisp . "I have 2~3 years of experience")
-                 (:nlp         . "NLP is a one of thing that intrigues me")
-                 (:transformer . "Transformer Architecture itself")
+                 (:nlp         . NIL)
+                 (:transformer . NIL)
                  (:deep-learning . NIL)
-                 (:scientific-computing . NIL)
-                 (:cl-waffe2 . "am exploring the best form of Deep Learning Framework for Common Lisp at cl-waffe2 repo"))
+                 (:scientific-computing . NIL))
     :e-mail "<ichndm@gmail.com> Feel free to contact me if you have any :)")
 ```
 
