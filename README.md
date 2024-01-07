@@ -34,5 +34,3 @@ I'm a high school student in Japan who dotes on Common Lisp. Currently working o
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hikettei&show_icons=true&theme=graywhite&count_private=true)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hikettei)](https://github.com/anuraghazra/github-readme-stats)
-
