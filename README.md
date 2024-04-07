@@ -15,12 +15,13 @@ I'm a high school student in Japan who dotes on Common Lisp. Currently working o
     :e-mail "<ichndm@gmail.com> Feel free to contact me if you have any :)")
 ```
 
-### Contacts
+### Links
 
 - e-mail: `ichndm@gmail.com`
 - discord: `@hikettei`
-- twitter: [ichndm](https://twitter.com/ichndm)
+- X: [ichndm](https://twitter.com/ichndm)
 - reddit: [hikettei](https://www.reddit.com/user/hikettei)
+- speakerdeck: [hikettei](https://speakerdeck.com/hikettei)
 
 ### Blog Posts
 
