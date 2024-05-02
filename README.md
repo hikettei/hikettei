@@ -1,6 +1,6 @@
 ### hikettei🌙
 
-I'm a high school student in Japan who dotes on Common Lisp. Currently working on [cl-waffe2](https://github.com/hikettei/cl-waffe2), programmable deep learning framework written in Common Lisp.
+I'm a high school student in Japan who dotes on Common Lisp. I am also working as an AI Engineer on Deep Learning Compiler and Quantization. Currently working on building some deep learning ecosystems on Common Lisp including [cl-waffe2](https://github.com/hikettei/cl-waffe2) and AbstractTensor.lisp.
 
 ```lisp
 (make-instance 'hikettei
