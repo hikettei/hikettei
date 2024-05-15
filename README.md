@@ -15,7 +15,7 @@ hikettei is a Japanese student with a deep love for **Common Lisp**. I have **a 
     :e-mail "<ichndm@gmail.com> Feel free to contact me if you have any :)")
 ```
 
-### Links
+### 📎 Links
 
 - Email: ichndm@gmail.com (For work-related inquiries, but any topic is welcome!)
 - Discord: `@hikettei`
@@ -24,13 +24,13 @@ hikettei is a Japanese student with a deep love for **Common Lisp**. I have **a 
 - SpeakerDeck: [hikettei](https://speakerdeck.com/hikettei)
 - Zenn:   [hikettei (Japanese)](https://zenn.dev/hikettei)
 
-### Awards
+### 🏆 Awards
 
 - U22 Programming Contest (one of the famous contests in Japan), METI Minister's Award.
 
-### Talks
+### 🗒️ Talks
 
-- [Shibuya.lisp cl-waffe2, Deep Learning Framework with the goodness of Common Lisp (Japanese)](https://youtu.be/VYLVd815rX4?si=LzYxy7DL3byFqWX)
+- [cl-waffe2 at Shibuya,lisp (Japanese)](https://youtu.be/VYLVd815rX4?si=LzYxy7DL3byFqWX)
 
 - I am planning to give a talk about deep learning compiler at ELS 2025
  
