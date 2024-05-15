@@ -17,7 +17,7 @@ hikettei is a Japanese student with a deep love for **Common Lisp**. I have **a 
 
 ### 📎 Links
 
-- Email: ichndm@gmail.com (For work-related inquiries, but any topic is welcome!)
+- Email: ichndm@gmail.com (For work-related inquiries, but **any topic is welcome!**)
 - Discord: `@hikettei`
 - X: [ichndm](https://twitter.com/ichndm)
 - Reddit: [hikettei](https://www.reddit.com/user/hikettei)
@@ -32,9 +32,10 @@ hikettei is a Japanese student with a deep love for **Common Lisp**. I have **a 
 
 - [cl-waffe2 at Shibuya,lisp (Japanese)](https://youtu.be/VYLVd815rX4?si=LzYxy7DL3byFqWX)
 
-- I am planning to give a talk about deep learning compiler at ELS 2025
+- I plan to talk about deep learning compilers at ELS 2025.
  
-## Stats
+## 📈 Stats
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hikettei&show_icons=true&theme=graywhite&count_private=true)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hikettei)](https://github.com/anuraghazra/github-readme-stats)
