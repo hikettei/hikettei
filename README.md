@@ -1,6 +1,6 @@
 ### hikettei🌙
 
-I'm a high school student in Japan who dotes on Common Lisp. I am also working as an AI Engineer on Deep Learning Compiler and Quantization. Currently working on building some deep learning ecosystems on Common Lisp including [cl-waffe2](https://github.com/hikettei/cl-waffe2) and AbstractTensor.lisp.
+hikettei is a Japanese student with a deep love for **Common Lisp**. I have **a strong interest in deep learning compiler technology** and develop scientific computing libraries, such as **cl-waffe2**, as a hobby using Common Lisp. My career as an **AI engineer** began with **quantization and deep learning compilers**. Currently, I am also involved in developing compilers using C++/Python etc.
 
 ```lisp
 (make-instance 'hikettei
@@ -17,20 +17,23 @@ I'm a high school student in Japan who dotes on Common Lisp. I am also working a
 
 ### Links
 
-- e-mail: `ichndm@gmail.com`
-- discord: `@hikettei`
+- Email: ichndm@gmail.com (For work-related inquiries, but any topic is welcome!)
+- Discord: `@hikettei`
 - X: [ichndm](https://twitter.com/ichndm)
-- reddit: [hikettei](https://www.reddit.com/user/hikettei)
-- speakerdeck: [hikettei](https://speakerdeck.com/hikettei)
-
-### Blog Posts
-
+- Reddit: [hikettei](https://www.reddit.com/user/hikettei)
+- SpeakerDeck: [hikettei](https://speakerdeck.com/hikettei)
 - Zenn:   [hikettei (Japanese)](https://zenn.dev/hikettei)
+
+### Awards
+
+- U22 Programming Contest (one of the famous contests in Japan), METI Minister's Award.
 
 ### Talks
 
 - [Shibuya.lisp cl-waffe2, Deep Learning Framework with the goodness of Common Lisp (Japanese)](https://youtu.be/VYLVd815rX4?si=LzYxy7DL3byFqWX)
 
+- I am planning to give a talk about deep learning compiler at ELS 2025
+ 
 ## Stats
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hikettei&show_icons=true&theme=graywhite&count_private=true)
