@@ -1,6 +1,6 @@
 ### hikettei🌙
 
-hikettei is an 18yo Japanese student with a deep love for **Common Lisp**. I have **a strong interest in deep learning compiler technology** and develop scientific computing libraries, such as **cl-waffe2**, as a hobby using Common Lisp. My career as an **AI engineer** began with **quantization and deep learning compilers**. Currently, I am also involved in developing compilers using C++/Python etc. My current goal is to implement **a better ecosystem for deep learning on Common Lisp**, including a versatile/tiny/modular/fastest/abstract deep learning system with minimal dependencies.
+I am an 18yo Japanese student with a deep love for **Common Lisp**. I have **a strong interest in deep learning compiler technology** and develop scientific computing libraries, such as **cl-waffe2**, as a hobby using Common Lisp. My career as an **AI engineer** began with **quantization and deep learning compilers**. Currently, I am also involved in developing compilers using C++/Python etc. My current goal is to implement **a better ecosystem for deep learning on Common Lisp**, including a versatile/tiny/modular/fastest/abstract deep learning system with minimal dependencies.
 
 ```lisp
 (make-instance 'hikettei
@@ -10,7 +10,7 @@ hikettei is an 18yo Japanese student with a deep love for **Common Lisp**. I hav
     :pronoun "he/him")
 ```
 
-### 📎 Links
+### 📎 How to reach me
 
 - Email: `ichndm@gmail.com` (For work-related inquiries, but **any topic is welcome!**)
 - Discord: `@hikettei`
