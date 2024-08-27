@@ -1,6 +1,6 @@
 ### hikettei🌙
 
-High school student in Japan with a deep love for Common Lisp and Deep Learning Compilers.
+High school student in Japan with a deep love for Common Lisp and Deep Learning Compilers. Currently I am working as an AI Engineer on Neural Network Quantization, Compilers, etc.
 
 ```lisp
 (make-instance 'hikettei
