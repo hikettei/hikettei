@@ -1,6 +1,6 @@
 ### hikettei🌙
 
-High school student in Japan with a deep love for Common Lisp and Deep Learning Compilers. Currently I am working as an AI Engineer on Neural Network Quantization, Compilers, etc. (will be) studying at Keio University from next year. Currently, I am in a gap year.
+High school student in Japan with a deep love for Common Lisp and Deep Learning Compilers. Currently I am working as an AI Engineer on Neural Network Quantization, Compilers, etc. (will be) studying at Keio University next year, so, I am in a gap year.
 
 ```lisp
 (make-instance 'hikettei
