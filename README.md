@@ -1,6 +1,6 @@
 ### hikettei🌙
 
-18yo, Common Lisp and Deep Learning Compiler Enthusiast.
+18yo, Common Lisp and Deep Learning Compiler Enthusiast. My current goal is to port SoTA Deep Learning Models into Common Lisp🔥
 
 ```lisp
 (make-instance 'hikettei
