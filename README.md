@@ -1,6 +1,8 @@
 ### hikettei🌙
 
-18yo, Common Lisp and Deep Learning Compiler Enthusiast. My current goal is to port SoTA Deep Learning Models into Common Lisp🔥 [Caten](https://github.com/hikettei/Caten). studying at keio univ from next year!
+18yo, Common Lisp and Deep Learning Compiler Enthusiast.
+
+My current goal is to port SoTA Deep Learning Models into Common Lisp🔥 [Caten](https://github.com/hikettei/Caten). I'm free until next April, so I'm dedicating this project! I am excited to be studying at Keio University next year!
 
 ```lisp
 (make-instance 'hikettei
