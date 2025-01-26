@@ -1,35 +1,17 @@
 ### hikettei🌙
 
-18yo, Common Lisp and Deep Learning Compiler Enthusiast.
+**Bio:** Undergraduate in the Faculty of Environment and Information Studies at Keio University, starting this April.
 
-My current goal is to port SoTA Deep Learning Models into Common Lisp🔥 [Caten](https://github.com/hikettei/Caten). I'm free until next April, so I'm dedicating this project! I am excited to be studying at Keio University next year!
+**Interests**: Common Lisp(!!), Deep Learning Compilers (e.g.: Auto Scheduler, Polyhedral Compiler), HPC, Scientific Computing etc ... (basically anything related to software!!)
 
-```lisp
-(make-instance 'hikettei
-    :name (apply #'whichever-you-like `(:rulia :hikettei))
-    :languages '((:japanese . "mother tongue")
-                 (:english  . "Known as typo expert"))
-    :pronoun "he/him")
-```
+**Projects**:
 
-### 📎 How to reach me
+- ⭐ [Caten](https://github.com/hikettei/Caten), a full scratch deep learning compiler based on three main components: Lightweight IR, Polyhedral Compiler, and Pattern Matcher, everything is written in Common Lisp.
+- or doing some trivial OSS projects in Common Lisp ...
 
-- Email: `ichndm@gmail.com` (For work-related inquiries, but **any topic is welcome!**)
-- Discord: `@hikettei`
-- X: [ichndm](https://twitter.com/ichndm)
-- Reddit: [hikettei](https://www.reddit.com/user/hikettei)
-- SpeakerDeck: [hikettei](https://speakerdeck.com/hikettei)
-- Zenn:   [hikettei (Japanese)](https://zenn.dev/hikettei)
+**Email:** `ichndm@gmail.com`
 
-### 🏆 Awards
-
-- U22 Programming Contest (one of the famous contests in Japan), METI Minister's Award.
-
-### 🗒️ Talks
-
-- [cl-waffe2 at Shibuya,lisp (Japanese)](https://youtu.be/VYLVd815rX4?si=LzYxy7DL3byFqWX)
-
-- I plan to talk about deep learning compilers at ELS 2025.
+**Discord:** `@hikettei`
  
 ## 📈 Stats
 
