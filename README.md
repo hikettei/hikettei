@@ -1,6 +1,6 @@
 ### hikettei🌙
 
-**Bio:** Undergraduate in the Faculty of Environment and Information Studies at Keio University, starting this April.
+**Bio:** Undergraduate in the Faculty of Environment and Information Studies at Keio University, starting this April. Majoring in Computer Sciences.
 
 **Interests**: Common Lisp(!!), Deep Learning Compilers (e.g.: Auto Scheduler, Polyhedral Compiler), HPC, Scientific Computing etc ... (basically anything related to software!!)
 
@@ -8,6 +8,10 @@
 
 - ⭐ [Caten](https://github.com/hikettei/Caten), a full scratch deep learning compiler based on three main components: Lightweight IR, Polyhedral Compiler, and Pattern Matcher, everything is written in Common Lisp.
 - or doing some trivial OSS projects in Common Lisp ...
+
+**Awards**
+
+- U22 Programming Content METI Minister’s award.
 
 **Email:** `ichndm@gmail.com`
 
