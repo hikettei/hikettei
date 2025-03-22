@@ -9,9 +9,10 @@
 - ⭐ [Caten](https://github.com/hikettei/Caten), a full scratch deep learning compiler based on three main components: Lightweight IR, Polyhedral Compiler, and Pattern Matcher, everything is written in Common Lisp.
 - or doing some trivial OSS projects in Common Lisp ...
 
-**Awards**
+**Awards and Honors**
 
 - U22 Programming Content METI Minister’s award.
+- Sōkan no Susume Scholarship, Keio University.
 
 **Email:** `ichndm@gmail.com`
 
