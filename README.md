@@ -19,7 +19,7 @@
 - U22 Programming Content METI Minister’s award.
 - Sōkan no Susume Scholarship, Keio University.
 
-📧 **Contact Me**: [ichndm@gmail.com](mailto:ichndm@gmail.com)
+📧 **Contact Me**: [ichndm@gmail.com](mailto:ichndm@gmail.com) | [yuma.oda@keio.jp](mailto:yuma.oda@keio.jp)
 
 📈 **Stats**
 
