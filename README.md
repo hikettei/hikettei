@@ -2,7 +2,7 @@
 
 **Bio:** Undergraduate in the Faculty of Environment and Information Studies at Keio University, majoring in Computer Sciences. (19yo)
 
-**Interests**: Common Lisp, Deep Learning, Compilers (e.g., Polyhedral Compiler, Auto Scheduler), HPC, Scientific Computing, etc. — I am particularly passionate about approaching deep learning and LLM technologies from a low-level perspective and optimizing them.
+**Skills / Interests**: Common Lisp, Deep Learning, Compilers (e.g., Polyhedral Compiler, Auto Scheduler), Neural Network Quantization (esp in CV models), HPC, Scientific Computing, etc. — I am particularly passionate about approaching deep learning and LLM technologies from a low-level perspective and optimizing them.
 
 **Projects and Activities**:
 
