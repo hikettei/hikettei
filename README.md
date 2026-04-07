@@ -1,6 +1,6 @@
 ### hikettei🌙
 
-**Bio:** Undergraduate student in [Data Platform Laboratory](https://sites.google.com/view/dataplatformlaboratory/home?authuser=1), the Faculty of Environment and Information Studies at Keio University, majoring in Computer Science.
+**Bio:** Undergraduate student in [AI Systems Laboratory](https://sites.google.com/view/dataplatformlaboratory/home?authuser=1), the Faculty of Environment and Information Studies at Keio University, majoring in Computer Science.
 
 **What I'm Working On:**
 - [Caten](https://github.com/hikettei/Caten) A deep learning compiler built from scratch in Common Lisp, featuring RISC-style IR and a polyhedral compiler backend for auto-generated kernel optimization.
