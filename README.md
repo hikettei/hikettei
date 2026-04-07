@@ -4,8 +4,8 @@
 
 **What I'm Working On:**
 - [Caten](https://github.com/hikettei/Caten) A deep learning compiler built from scratch in Common Lisp, featuring RISC-style IR and a polyhedral compiler backend for auto-generated kernel optimization.
-- Quantization for CV Models, Reinforcement Learning w/ Mixture of Experts, including communication optimization, a bit of RTL design.
-- LLM Inference Optimization (e.g.: Speculative decoding, quantization, etc)
+- (@tokyo) Deep Learning Compiler, Quantization for CV Models, Reinforcement Learning w/ Mixture of Experts, including communication optimization, a bit of RTL design.
+- (@sf) LLM Inference Optimization (e.g.: Speculative decoding, quantization, etc)
 
 **Awards and Honors**
 
