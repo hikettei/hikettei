@@ -1,6 +1,7 @@
 ### hikettei🌙
 
 **Bio:** Undergraduate student in [AI Systems Laboratory](https://sites.google.com/view/dataplatformlaboratory/home?authuser=1), the Faculty of Environment and Information Studies at Keio University, majoring in Computer Science. Researcher at Mirai Labs.
+
 **Awards and Honors**
 
 - U22 Programming Contest METI Minister’s award.
