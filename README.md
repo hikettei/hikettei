@@ -2,11 +2,6 @@
 
 **Bio:** Research Engineer at Mirai Labs. Undergraduate student in [AI Systems Laboratory](https://sites.google.com/view/dataplatformlaboratory/home?authuser=1), the Faculty of Environment and Information Studies at Keio University, majoring in Computer Science.
 
-**Awards and Honors**
-
-- U22 Programming Contest METI Minister’s award.
-- Sōkan no Susume Scholarship, Keio University.
-
 **Contact Me**: [ichndm@gmail.com](mailto:ichndm@gmail.com) | [yuma.oda@keio.jp](mailto:yuma.oda@keio.jp)
 
 **Stats**
